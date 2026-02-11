@@ -1,5 +1,5 @@
 huggingface_hub
-torchcodec
 datasets
 soundfile
-torch
+torch==2.10.0
+torchcodec==0.10

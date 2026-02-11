@@ -1,3 +1,4 @@
 .vscode
 z_venv/
-data\zhongli_en
+data/zhongli_en/
+data/bad_data
